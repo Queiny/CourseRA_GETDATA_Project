@@ -1,5 +1,5 @@
-# CourseRA_GETDATA_Project
-CourseRA GETDATA class project
+# CourseRA_GettingAndCleaningData_Project
+CourseRA Course project
 
 This is the course project github repository for CoureseRA Getting and Cleanning the Data.
 
